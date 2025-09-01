@@ -29,14 +29,14 @@ export default function Hero() {
                 alt="olas decoracion"
                 width={2000}
                 height={200}
-                className="hidden md:block absolute z-10 -bottom-10 left-0 w-full h-[1000px] object-cover"
+                className="hidden md:block absolute z-10 -bottom-0 left-0 w-full h-[1000px] object-cover"
             />
             <Image
                 src="/svg/wave-haikei-3.svg"
                 alt="olas decoracion"
                 width={2000}
                 height={200}
-                className="block md:hidden absolute z-10 -bottom-10 xl:bottom-0 left-0 w-full h-[1000px] object-cover"
+                className="block md:hidden absolute z-10 -bottom-0 xl:bottom-0 left-0 w-full h-[1000px] object-cover"
             />
 
             <div className="absolute z-10 top-25 right-5">
