@@ -9,7 +9,7 @@ import { MdLocationOn } from "react-icons/md";
 
 export default function Hero() {
     return (
-        <div className="h-dvh w-full overflow-hidden">
+        <div className="h-screen w-full overflow-hidden">
             <div
                 className="h-full w-full relative overflow-hidden bg-center bg-cover bg-no-repeat"
                 style={{
