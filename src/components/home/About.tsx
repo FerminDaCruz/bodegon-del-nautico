@@ -35,25 +35,29 @@ export default function About() {
                         <div className="order-1 lg:order-2 space-y-6 flex flex-col justify-center">
                             <div className="space-y-4">
                                 <p className="text-lg  leading-relaxed">
-                                    En el corazón de la costa, donde el mar se
-                                    encuentra con la tradición culinaria, nace
-                                    el Bodegón del Náutico. Desde nuestros
-                                    inicios, hemos sido más que un restaurante;
-                                    somos un lugar donde los sabores auténticos
-                                    se fusionan con la hospitalidad que
-                                    caracteriza a nuestra región.
+                                    Ubicado sobre{" "}
+                                    <span className="font-bold">
+                                        Av. Bustillo Km 3.500
+                                    </span>{" "}
+                                    (a minutos del centro de la ciudad) el
+                                    Bodegón del Náutico es sin dudas uno de los
+                                    lugares más bonitos para comer de todo
+                                    Bariloche.
                                 </p>
 
                                 <p className="text-lg  leading-relaxed">
-                                    Nuestro compromiso es ofrecer una
-                                    experiencia gastronómica única, donde cada
-                                    plato cuenta una historia y cada ingrediente
-                                    es seleccionado con el mismo cuidado que
-                                    ponemos en cada detalle de nuestro servicio.
-                                    Con años de experiencia y pasión por la
-                                    cocina, nuestro equipo trabaja
-                                    incansablemente para crear momentos
-                                    inolvidables para nuestros comensales.
+                                    Nuestra situación privilegiada dentro del
+                                    Club Náutico Bariloche nos ubica como ningún
+                                    otro establecimiento gastronómico en toda la
+                                    ciudad. Mientras algunos pueden tener una
+                                    excelente vista al lago, nosotros estamos
+                                    literalmente sobre él. Buscamos crear un
+                                    lugar de encuentro para los amigos y las
+                                    familias. Donde se pueda tomar algo y comer
+                                    rico, planteando diferentes opciones para el
+                                    día y la noche. Somos el punto neurálgico de
+                                    la vida social del Náutico y la ciudad de
+                                    Bariloche.
                                 </p>
                             </div>
                         </div>

@@ -31,7 +31,7 @@ export default function Gallery() {
             {/* Título de la sección */}
             <div className="text-center mb-12 lg:mb-16">
                 <h2 className="text-3xl lg:text-4xl xl:text-5xl font-bold text-white mb-4">
-                    Nuestro Espacio
+                    Galería
                 </h2>
             </div>
 
