@@ -56,7 +56,7 @@ export default function Hero() {
                         </Link>
                     </div>
                 </div>
-                <div className="relative z-10 top-1/2 left-1/2 transform -translate-1/2 text-white flex flex-col items-center text-center font-atkinson max-w-[90%] sm:max-w-[80%] md:max-w-[70%] lg:max-w-[60%]">
+                <div className="relative z-10 top-1/2 left-1/2 transform -translate-1/2 text-white flex flex-col items-center text-center font-atkinson max-w-[90%] sm:max-w-[80%] md:max-w-[70%] lg:max-w-[60%] animate-fade-in-up">
                     <h2 className="font-bold text-xl sm:text-2xl md:text-3xl mb-4">
                         Bienvenidos a
                     </h2>
